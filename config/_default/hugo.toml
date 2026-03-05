@@ -1,7 +1,7 @@
 
-baseURL = "/"
+# IMPORTANT: The trailing slash is required
+baseURL = "https://griffschool-stack.github.io/emily-dye-portfolio/"
 languageCode = "en-us"
 title = "Emily Dye"
 theme = "blowfish"
-defaultContentLanguage = "en"
 
