@@ -1,34 +1,20 @@
 ---
 title: "Alameda County Hazard Mitigation Plan"
-date: 2026-03-04
-tags: ["GIS", "Spatial Analysis", "Policy", "Alameda County"]
-# No featureAsset needed - Blowfish auto-detects files named feature*
+date: 2026-03-05
+draft: false
+showTableOfContents: true
 ---
 
-<div class="text-left-block">
+## Project Overview
+This report for **GEOG 451** at **Oregon State University** evaluates seismic hazards and social vulnerabilities within **Alameda County**.
 
-Developed a strategic **Hazard Mitigation Plan** for **Alameda County, California**, addressing catastrophic earthquake risks along the **Hayward fault**.
-
-### **Key Project Details:**
-* **Exposure Analysis**: Identified high-risk zones for soil liquefaction and landslides near the Hayward fault.
-* **Infrastructure Risk**: Found that **65.6%** of housing units were built before 1979.
-* **Policy Proposal**: Designed the **Existing Structure Retrofit Program (ESRP)** to support low-income communities.
-
-</div>
+### **Technical Documentation**
+# This relative link tells the browser to look in the same folder as this page
+{{< button href="GEOG451.pdf" target="_blank" >}} Open GEOG 451 Report (PDF) {{< /button >}}
 
 ---
 
-### **Full Report**
-
-<div style="width: 100%; height: 1000px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #eee;">
-    <object 
-        data="GEOG451_Final.pdf" 
-        type="application/pdf" 
-        width="100%" 
-        height="100%">
-        <p>Your browser does not support PDFs. 
-            <a href="/pdf/GEOG451_Final.pdf">Download the PDF</a> to view it.
-        </p>
-    </object>
-</div>
+## Methodology
+* Conducted spatial analysis using **ArcGIS Pro** to delineate landslide and liquefaction zones.
+* Integrated census data to assess community vulnerability.
 
