@@ -1,0 +1,45 @@
+
+# Global Parameters
+theme = "blowfish"
+colorScheme = "slate"
+smartTOC = true
+
+[author]
+  name = "Emily Dye"
+  image = "images/profile.jpg"
+  headline = "Environmental Scientist | GIS & Spatial Analysis"
+  bio = "Summa Cum Laude Graduate from Oregon State University with a focus on   Spatial Analysis and Hazard Mitigation."
+  links = [
+    { email = "mailto:emdye44@gmail.com" },
+    { linkedin = "https://www.linkedin.com/in/emily-dye4482/" }]
+
+[header]
+  layout = "fixed-fill-blur"
+
+[homepage]
+  layout = "hero" 
+  homepageImage = "images/back.jpg"
+  showRecent = false
+  cardViewScreenWidth = true
+
+[article]
+  showHero = false
+  showDate = false
+  showReadingTime = false
+  showWordCount = false
+  showAuthor = false
+  # SETTING THIS TO FALSE CENTERS THE CONTENT COLUMN
+  fullWidth = false 
+  # This ensures the "Hero" image also centers with the text
+  centerHeader = true
+  showTableOfContents = true
+  smartToc = true
+
+[list]
+  cardView = true
+  showDate = false
+  groupByYear = false 
+
+[footer]
+  showCopyright = false
+

@@ -1,0 +1,5 @@
+
+[homepage]
+  # This replaces the default "Recent" or "Recent Projects" label
+  recent_title = "Projects"
+

@@ -1,0 +1,7 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Emily Dye"
+theme = "blowfish"
+defaultContentLanguage = "en"
+

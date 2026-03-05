@@ -1,0 +1,15 @@
+
+{{ $recent := where .Site.RegularPages "Section" "projects" }}
+<section class="mt-24">
+  <div class="flex items-center justify-between">
+    <h2 class="text-3xl font-bold tracking-tight text-neutral-900 dark:text-neutral">
+      Projects
+    </h2>
+  </div>
+  <div class="mt-10 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3">
+    {{ range first 3 $recent }}
+      {{ partial "article-link.html" . }}
+    {{ end }}
+  </div>
+</section>
+

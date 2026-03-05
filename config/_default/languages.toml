@@ -1,0 +1,17 @@
+
+[en]
+  languageCode = "en-us"
+  contentDir = "content"
+  languageName = "English"
+  weight = 1
+  title = "Emily Dye"
+
+  [en.params]
+    displayName = "English"
+    isoCode = "en"
+
+    [en.params.author]
+      name = "Emily Dye"
+      headline = "Environmental Scientist & GIS Analyst"
+      bio = "Summa Cum Laude Graduate from Oregon State University with a focus on Spatial Analysis and Hazard Mitigation."
+

@@ -1,0 +1,5 @@
+
+[goldmark]
+  [goldmark.renderer]
+    unsafe = true # This allows the <div> and <a> tags to actually work
+
