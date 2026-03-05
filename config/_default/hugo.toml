@@ -1,11 +1,17 @@
 
+# 1. BaseURL MUST have the trailing slash
 baseURL = "https://griffschool-stack.github.io/emily-dye-portfolio/"
 languageCode = "en-us"
 title = "Emily Dye"
 theme = "blowfish"
 
 [params]
-  # This forces Hugo to use relative paths for CSS and JS
+  # 2. These settings ensure images and scripts find the sub-folder
   relativeURLs = true
-  canonifyURLs = false
+  canonifyURLs = true # Changed to true to help resolve full paths on GitHub
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
