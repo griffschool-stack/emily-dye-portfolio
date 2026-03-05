@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Emily Dye</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/emily-dye-portfolio/tags/</link>
     <description>Recent content in Tags on Emily Dye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/emily-dye-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Alameda County</title>
-      <link>//localhost:1313/tags/alameda-county/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/alameda-county/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/alameda-county/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/alameda-county/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GIS</title>
-      <link>//localhost:1313/tags/gis/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/gis/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/gis/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/gis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Policy</title>
-      <link>//localhost:1313/tags/policy/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/policy/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/policy/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/policy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Spatial Analysis</title>
-      <link>//localhost:1313/tags/spatial-analysis/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/spatial-analysis/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/spatial-analysis/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/spatial-analysis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ArcGIS Pro</title>
-      <link>//localhost:1313/tags/arcgis-pro/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/arcgis-pro/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/arcgis-pro/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/arcgis-pro/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Oceanography</title>
-      <link>//localhost:1313/tags/oceanography/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/oceanography/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/oceanography/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/oceanography/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Field Techniques</title>
-      <link>//localhost:1313/tags/field-techniques/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/field-techniques/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/field-techniques/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/field-techniques/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fisheries</title>
-      <link>//localhost:1313/tags/fisheries/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/fisheries/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/fisheries/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/fisheries/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wildlife Surveys</title>
-      <link>//localhost:1313/tags/wildlife-surveys/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/wildlife-surveys/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/wildlife-surveys/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/wildlife-surveys/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Integrity</title>
-      <link>//localhost:1313/tags/data-integrity/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/data-integrity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/data-integrity/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/data-integrity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MATLAB</title>
-      <link>//localhost:1313/tags/matlab/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/matlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/matlab/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/matlab/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>R (RStudio)</title>
-      <link>//localhost:1313/tags/r-rstudio/</link>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/r-rstudio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/r-rstudio/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/r-rstudio/</guid>
       <description></description>
       
     </item>

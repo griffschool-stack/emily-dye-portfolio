@@ -22,7 +22,7 @@ Developed a strategic **Hazard Mitigation Plan** for **Alameda County, Californi
 
 <div style="width: 100%; height: 1000px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #eee;">
     <object 
-        data="/pdf/GEOG451_Final.pdf" 
+        data="GEOG451_Final.pdf" 
         type="application/pdf" 
         width="100%" 
         height="100%">
