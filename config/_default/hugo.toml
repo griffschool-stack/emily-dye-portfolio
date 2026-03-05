@@ -1,7 +1,11 @@
 
-# IMPORTANT: The trailing slash is required
 baseURL = "https://griffschool-stack.github.io/emily-dye-portfolio/"
 languageCode = "en-us"
 title = "Emily Dye"
 theme = "blowfish"
+
+[params]
+  # This forces Hugo to use relative paths for CSS and JS
+  relativeURLs = true
+  canonifyURLs = false
 
