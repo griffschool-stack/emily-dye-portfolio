@@ -23,7 +23,6 @@ As a **Biological Science Assistant** with the **Oregon Department of Fish and W
 * Authored comprehensive biological reports following electroshocking surveys.
 * Managed rigorous data entry for all field survey results to ensure high-quality environmental datasets.
 
----
 
 ---
 ## Community Education & Outreach
@@ -35,7 +34,6 @@ Beyond technical field work, I lead initiatives to communicate fisheries science
 ![ODFW Outreach Booth](booth.jpg)
 *Figure 1: ODFW educational booth at a community outreach event.*
 
----
+Additionally, I supported the Eggs to Fry program for dozens of schools in the Willamette Valley, and built this interactive map to show the program impact and release locations: 
 
-## Outreach Locations
 <iframe src="https://www.google.com/maps/d/embed?mid=1zjjeaQ7iHROBuF286gB5wyTDL1ZXLm8&ehbc=2E312F" width="640" height="480"></iframe>
