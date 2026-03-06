@@ -21,6 +21,7 @@ smartTOC = true
   homepageImage = "images/back.jpg"
   showRecent = false
   cardViewScreenWidth = true
+  enableSearch = false
 
 [article]
   showHero = false
