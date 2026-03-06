@@ -8,13 +8,20 @@ showTableOfContents: true
 ## Project Overview
 This report for **GEOG 451** at **Oregon State University** evaluates seismic hazards and social vulnerabilities within **Alameda County**.
 
-### **Technical Documentation**
-# This relative link tells the browser to look in the same folder as this page
-{{< button href="GEOG451.pdf" target="_blank" >}} Open GEOG 451 Report (PDF) {{< /button >}}
+
+
 
 ---
 
 ## Methodology
 * Conducted spatial analysis using **ArcGIS Pro** to delineate landslide and liquefaction zones.
-* Integrated census data to assess community vulnerability.
+* Integrated census data to assess community vulnerability across **Alameda County**.
 
+---
+
+## Full Report 
+{{< button href="GEOG451_Final.pdf" target="_blank" >}} Open PDF in New Tab {{< /button >}}
+
+<iframe src="GEOG451_Final.pdf" width="100%" height="800px">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="GEOG451_Final.pdf">Download PDF</a>
+</iframe>

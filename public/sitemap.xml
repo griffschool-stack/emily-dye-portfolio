@@ -3,24 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/emily-dye-portfolio/resume/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/emily-dye-portfolio/projects/hazard-mitigation/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/emily-dye-portfolio/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/emily-dye-portfolio/projects/marine-spatial-assessment/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/emily-dye-portfolio/projects/</loc>
-    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/emily-dye-portfolio/projects/marine-spatial-assesment/</loc>
-    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/emily-dye-portfolio/about/</loc>
+    <lastmod>2026-03-04T14:33:58-08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/emily-dye-portfolio/resume/</loc>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/emily-dye-portfolio/projects/fisheries-monitoring/</loc>
