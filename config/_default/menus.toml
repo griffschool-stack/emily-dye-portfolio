@@ -9,8 +9,4 @@
   url = "/resume/"
   weight = 10
 
-[[main]]
-  name = "About"
-  url = "/about/"
-  weight = 20
 

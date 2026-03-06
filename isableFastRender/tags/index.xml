@@ -7,44 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="http://localhost:1313/emily-dye-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/emily-dye-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>ArcGIS Pro</title>
-      <link>http://localhost:1313/emily-dye-portfolio/tags/arcgis-pro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Environmental Assessment</title>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/environmental-assessment/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/emily-dye-portfolio/tags/arcgis-pro/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/environmental-assessment/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Data Integrity</title>
-      <link>http://localhost:1313/emily-dye-portfolio/tags/data-integrity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Field Work</title>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/field-work/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/emily-dye-portfolio/tags/data-integrity/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/field-work/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>MATLAB</title>
-      <link>http://localhost:1313/emily-dye-portfolio/tags/matlab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>GIS</title>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/gis/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/emily-dye-portfolio/tags/matlab/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/gis/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>R (RStudio)</title>
-      <link>http://localhost:1313/emily-dye-portfolio/tags/r-rstudio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>ODFW</title>
+      <link>http://localhost:1313/emily-dye-portfolio/tags/odfw/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/emily-dye-portfolio/tags/r-rstudio/</guid>
+      <guid>http://localhost:1313/emily-dye-portfolio/tags/odfw/</guid>
       <description></description>
       
     </item>

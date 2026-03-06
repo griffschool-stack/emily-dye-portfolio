@@ -1,8 +1,11 @@
 ---
-title: "Fisheries Monitoring"
+title: "Oregon Department of Fish & Wildlife"
 date: 2026-03-05
 draft: false
+weight: 1
+tags: ["Field Work", "GIS"]
 ---
+
 
 ## Biological & Wildlife Surveys
 As a **Biological Science Assistant** with the **Oregon Department of Fish and Wildlife**, I conduct specialized surveys to monitor local aquatic populations.
@@ -20,8 +23,8 @@ As a **Biological Science Assistant** with the **Oregon Department of Fish and W
 >}}
 
 ### **Data & Reporting**
-* Authored comprehensive biological reports following electroshocking surveys.
-* Managed rigorous data entry for all field survey results to ensure high-quality environmental datasets.
+* Authored biological reports following electroshocking surveys.
+* Managed  data entry for all field survey results to ensure high-quality environmental datasets.
 
 
 ---
@@ -36,4 +39,4 @@ Beyond technical field work, I lead initiatives to communicate fisheries science
 
 Additionally, I supported the Eggs to Fry program for dozens of schools in the Willamette Valley, and built this interactive map to show the program impact and release locations: 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1zjjeaQ7iHROBuF286gB5wyTDL1ZXLm8&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wMtzWyDJjLz73NkhzJYPIFJ_ktEpx48&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>

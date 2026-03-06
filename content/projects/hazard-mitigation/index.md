@@ -2,7 +2,9 @@
 title: "Alameda County Hazard Mitigation Plan"
 date: 2026-03-05
 draft: false
-showTableOfContents: true
+tags: ["GIS"]
+
+weight: 2
 ---
 
 ## Project Overview

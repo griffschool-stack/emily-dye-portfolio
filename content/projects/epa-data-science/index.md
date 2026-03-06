@@ -1,6 +1,6 @@
 ---
 title: "National Aquatic Resource Surveys (NARS) Data Science"
-draft: false
+draft: true
 summary: "Processing 4,000+ taxonomic entries and delineating LiDAR elevation gradients for the U.S. EPA."
 tags:
   - "R (RStudio)"

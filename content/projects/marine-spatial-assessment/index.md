@@ -3,6 +3,7 @@ title: "Marine Spatial Assessment"
 date: 2026-03-05
 draft: false
 description: "Spatial analysis of marine resources and aquatic biology data."
+tags: ["GIS", "Environmental Assessment"]
 ---
 
 ## Assessment Overview

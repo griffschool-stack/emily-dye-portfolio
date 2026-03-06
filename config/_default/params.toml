@@ -3,6 +3,7 @@
 theme = "blowfish"
 colorScheme = "slate"
 smartTOC = true
+enableSearch = false
 
 [author]
   name = "Emily Dye"
@@ -21,7 +22,7 @@ smartTOC = true
   homepageImage = "images/back.jpg"
   showRecent = false
   cardViewScreenWidth = true
-  enableSearch = false
+  
 
 [article]
   showHero = false
@@ -29,12 +30,12 @@ smartTOC = true
   showReadingTime = false
   showWordCount = false
   showAuthor = false
-  # SETTING THIS TO FALSE CENTERS THE CONTENT COLUMN
-  fullWidth = false 
+  
   # This ensures the "Hero" image also centers with the text
   centerHeader = true
   showTableOfContents = true
   smartToc = true
+  showTaxonomies = true
 
 [list]
   cardView = true
